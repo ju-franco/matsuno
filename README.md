@@ -2,7 +2,7 @@
 
 [**Acesse O Site**](https://ju-franco.github.io/matsuno/)
 
-Um website desenvolvido com fins acadêmicos para apresentar o restaurante japonês fictício **Matsuno**, destacando sua história, missão, visão, produtos e parceiros.  
+Website desenvolvido com fins acadêmicos para apresentar o restaurante japonês fictício **Matsuno**, destacando sua história, missão, visão, produtos e parceiros.  
 
 Este projeto foi criado no **1º ano do curso técnico em Desenvolvimento de Sistemas**, como parte da disciplina **Programação Web (PWI)**.
 
