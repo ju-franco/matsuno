@@ -1,4 +1,4 @@
-# 🍣 Matsuno – Website Acadêmico  
+# 🍣 `Matsuno – Website Acadêmico`
 
 [**Acesse O Site**](https://ju-franco.github.io/matsuno/)
 
@@ -7,8 +7,7 @@ Website desenvolvido com fins acadêmicos para apresentar o restaurante japonês
 Este projeto foi criado no **1º ano do curso técnico em Desenvolvimento de Sistemas**, como parte da disciplina **Programação Web (PWI)**.
 
 ---
-
-## 📘 Sobre o Projeto
+## 📘 `Sobre o Projeto`
 
 O objetivo do site é proporcionar uma experiência completa e visualmente atrativa ao usuário, simulando um restaurante japonês moderno.  
 Nele, o visitante encontra:
@@ -36,7 +35,7 @@ O site foi desenvolvido inteiramente com HTML, CSS e JavaScript, utilizando esti
 
 ---
 
-## 🗂️ Estrutura do Site
+## 🗂️ `Estrutura do Site`
 
 O projeto contém as seguintes páginas:
 
@@ -50,7 +49,7 @@ O projeto contém as seguintes páginas:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ `Tecnologias Utilizadas`
 
 - **HTML5** – Estrutura das páginas  
 - **CSS** – Estilização principal  
@@ -61,13 +60,13 @@ O projeto contém as seguintes páginas:
 
 ---
 
-## 📄 Finalidade
+## 📄 `Finalidade`
 
 Este projeto é **exclusivamente didático**, desenvolvido para prática de criação de websites usando HTML, CSS e JavaScript, aplicado ao tema fictício do restaurante Matsuno.
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 `Autora`
 
 Desenvolvido por **Julia de Melo Romo Franco**  
 Projeto acadêmico – ETEC de Hortolândia  
