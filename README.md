@@ -1,4 +1,4 @@
-# 🍱 Matsuno – Website Acadêmico  
+# 🍣 Matsuno – Website Acadêmico  
 
 [**Acesse O Site**](https://ju-franco.github.io/matsuno/)
 
